@@ -961,7 +961,7 @@ body:not(.post-template) .post-title {
 
 .post-meta {
     display: block;
-    margin: 1.75rem 0 0 0;
+    margin: 1.75rem 0;
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
@@ -1607,7 +1607,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 @media only screen and (max-width: 900px) {
-   
+
     .main-header {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
