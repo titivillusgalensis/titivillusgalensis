@@ -4,7 +4,7 @@ cover: 'assets/images/cover6.jpg'
 title: Lorem ipsum dolor sit amet
 date:   2017-01-06 10:18:00
 tags: fables fiction
-subclass: 'lorem ipsum dolor'
+subclass: 'post tag-fiction'
 categories: 'titivillusgalensis'
 navigation: True
 logo: 'assets/images/ghost.png'
